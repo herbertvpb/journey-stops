@@ -1,5 +1,7 @@
 This project was bootstrapped with  [Create React App](https://github.com/facebook/create-react-app).
 
+Live demo: [Journey Stops](https://journeystops.netlify.app)
+
 ## Step by step for execution:
 
 In the project directory run:
